@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Defne. I like animals. 
+
 <!--
 **defnetim/defnetim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
